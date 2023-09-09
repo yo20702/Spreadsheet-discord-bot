@@ -1,0 +1,2 @@
+# Spreadsheet-discord-bot
+googleスプレッドシートに自動入力をするdiscordのbotです
